@@ -6,3 +6,7 @@ Modified index.md to add a header and this comment
 ``` javascript
 var myVar = "Hello, Unison!";
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
